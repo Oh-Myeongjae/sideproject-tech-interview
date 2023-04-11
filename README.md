@@ -18,7 +18,7 @@
   - [Spring Boot, Spring Framework 차이](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Spring/Spring%20Boot%2C%20Spring%20Framework%20%EC%B0%A8%EC%9D%B4.md)
   - [필터와 인터셉터의 차이](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Spring/%ED%95%84%ED%84%B0(Filter)%20vs%20%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0(Interceptor)%20%EC%B0%A8%EC%9D%B4.md)
   - [DTO를 사용하는 이유에 대해 설명해 보세요.](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Spring/DTO%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EB%B3%B4%EC%84%B8%EC%9A%94.md)
-  - [DI란 무엇이고 DI의 주입방식은 무엇이 있는지 설명해 보시오.]()
+  - [DI란 무엇이고 DI의 주입방식은 무엇이 있는지 설명해 보시오.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Spring/DI%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20DI%EC%9D%98%20%EC%A3%BC%EC%9E%85%EB%B0%A9%EC%8B%9D%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%20%EC%9E%88%EB%8A%94%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EB%B3%B4%EC%8B%9C%EC%98%A4.md)
 
 - ### Java
 
